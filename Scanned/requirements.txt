@@ -1,0 +1,25 @@
+# Scanned PDF OCR Pipeline - Requirements
+# Production-ready OCR processing for scanned PDFs
+
+# OCR Engine
+paddleocr>=2.7.0.3
+
+# PDF Processing
+PyMuPDF>=1.23.0
+
+# Image Processing
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Data Processing
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Optional (recommended)
+python-dotenv>=1.0.0
+
+# Development (optional)
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0

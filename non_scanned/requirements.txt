@@ -1,0 +1,21 @@
+# RAG Pipeline - PDF Extraction and Cleaning
+# Production-ready PDF processing for RAG systems
+
+# PDF Text Extraction
+pdfplumber>=0.10.0
+
+# PDF Image Extraction
+PyMuPDF>=1.23.0
+
+# Table Processing
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Optional (recommended)
+python-dotenv>=1.0.0
+
+# Development (optional)
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0

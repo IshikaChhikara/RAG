@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Generated Output
+non_scanned/data/
+Scanned/data/
+
+# PDFs (optional)
+non_scanned/input_pdfs/
+Scanned/input_pdfs/
