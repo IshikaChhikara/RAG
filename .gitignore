@@ -12,10 +12,4 @@ __pycache__/
 logs/
 *.log
 
-# Generated Output
-non_scanned/data/
-Scanned/data/
 
-# PDFs (optional)
-non_scanned/input_pdfs/
-Scanned/input_pdfs/
