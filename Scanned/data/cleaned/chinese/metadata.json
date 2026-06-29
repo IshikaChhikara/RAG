@@ -1,0 +1,17 @@
+{
+  "pdf_name": "chinese.pdf",
+  "pdf_path": "/Users/apple/Downloads/RAG/non_scanned/input_pdfs/chinese.pdf",
+  "pages": 3,
+  "text_extracted": true,
+  "images_extracted": true,
+  "ocr_engine": "EasyOCR",
+  "is_searchable": false,
+  "processing_status": "completed",
+  "processed_at": "2026-06-27T18:04:54.900035",
+  "last_updated": "2026-06-27T18:10:19.298138",
+  "cleaned": true,
+  "errors": [],
+  "cleaned_at": "2026-06-27T18:10:19.298129",
+  "raw_text_size": 2687,
+  "cleaned_text_size": 2321
+}

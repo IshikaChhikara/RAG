@@ -1,0 +1,17 @@
+{
+  "pdf_name": "OVERTHINKING DETOX_final.pdf",
+  "pdf_path": "/Users/apple/Downloads/RAG/non_scanned/input_pdfs/OVERTHINKING DETOX_final.pdf",
+  "pages": 27,
+  "text_extracted": true,
+  "tables_extracted": true,
+  "images_extracted": true,
+  "is_searchable": true,
+  "processing_status": "completed",
+  "processed_at": "2026-06-29T18:08:30.755388",
+  "last_updated": "2026-06-29T18:08:45.035028",
+  "cleaned": true,
+  "errors": [],
+  "cleaned_at": "2026-06-29T18:08:45.035013",
+  "raw_text_size": 14596,
+  "cleaned_text_size": 9941
+}

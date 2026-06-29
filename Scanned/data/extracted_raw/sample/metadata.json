@@ -1,0 +1,14 @@
+{
+  "pdf_name": "sample.pdf",
+  "pdf_path": "/Users/apple/Downloads/RAG/non_scanned/input_pdfs/sample.pdf",
+  "pages": 3,
+  "text_extracted": true,
+  "images_extracted": true,
+  "ocr_engine": "EasyOCR",
+  "is_searchable": false,
+  "processing_status": "completed",
+  "processed_at": "2026-06-26T17:18:18.406831",
+  "last_updated": "2026-06-26T17:18:18.406856",
+  "cleaned": false,
+  "errors": []
+}
